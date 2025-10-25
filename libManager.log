@@ -1,0 +1,54 @@
+\o Program:		@(#)$CDS: libManager version 6.1.8 - CAT37 09/15/2020 20:25 (sjfhw492) $
+\o Sub version:		sub-version  s146 
+\o Arguments:		-mpssession virtuoso2494185 -mpshost laguna.eecs.uci.edu 
+\o Working Directory:	laguna.eecs.uci.edu:/users/ugrad/rnarwar/EECS270A
+\o 64-bit offsets
+\o Qt version: 		5.9.1
+\o Log file is "/users/ugrad/rnarwar/EECS270A/libManager.log".
+\o Opening libManager window.
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(635 277 602 491))
+\o changeWorkingDir("/users/ugrad/rnarwar/EECS270A") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\o MPS service: map window
+\o Library Manager customization server connected.
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(79 67 602 491))
+\a nrResizeWindow(cdsLibManager list(79 67 851 838))
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(79 67 843 860))
+\a nrResizeWindow(cdsLibManager list(40 60 843 860))
+\a nrResizeWindow(cdsLibManager list(28 65 843 860))
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a _lmgrCloseIconify("cdsLibManager" 1)
+\a nrSetWindowVisibility(cdsLibManager "show")
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a _lmgrCloseIconify("cdsLibManager" 1)
+\a nrSetWindowVisibility(cdsLibManager "show")
+\a _lmgrCloseIconify("cdsLibManager" 0)
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a _lmgrCloseIconify("cdsLibManager" 1)
+\a nrSetWindowVisibility(cdsLibManager "show")
+\a _lmgrCloseIconify("cdsLibManager" 0)
+\a cdsLibManager->libListBox->value = "RahulNarwar"
+\a cdsLibManager->libLineEdit->value = "RahulNarwar"
+\a cdsLibManager->cellListBox->value = "15Oct_CSA"
+\a cdsLibManager->cellLineEdit->value = "15Oct_CSA"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a _lmgrCloseIconify("cdsLibManager" 1)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetWindowVisibility(cdsLibManager "show")
+\a nrSetCurrentWindow(cdsLibManager)
+\a _lmgrCloseIconify("cdsLibManager" 0)
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a _lmgrCloseIconify("cdsLibManager" 1)
+\a nrSetWindowVisibility(cdsLibManager "show")
+\a _lmgrCloseIconify("cdsLibManager" 0)
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\o MPS service: shutdown
+\o libManager is exiting.
+\a exit(0)
