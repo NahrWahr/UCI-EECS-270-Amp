@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      rnarwar
+HostName                       laguna.eecs.uci.edu
+ProcessIdentifier              3552080
+ProcessCreationTime_UTC        1761594864
+ProcessCreationTime_Readable   Mon Oct 27 12:54:24 2025 PDT
+AppIdentifier                  /ecelib/linware/cadence/ic616/tools/dfII/bin/64bit/libManager
+OSType                         lnx86
+ReasonForPlacingEditLock       log file
+FilePathUsedToEditLock         /users/ugrad/rnarwar/EECS270A/libManager.log
+TimeEditLocked                 Mon Oct 27 12:54:24 2025 PDT

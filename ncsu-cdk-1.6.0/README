@@ -1,0 +1,17 @@
+;; NCSU CDK v. 1.6.0
+;; Last Modified: 2007-07-12
+
+The NCSU CDK is Copyright (C) NC State University, 1998, 1999, 2004, 
+2006, 2007. Users are free to use or modify the NCSU CDK as appropriate as long 
+as this notice appears in the modified package.   The NCSU CDK is
+provided with NO WARRANTY. 
+
+This kit was migrated from Cadence Virtuoso 5.x to Cadence Virtuoso 6.1
+for OpenAccess.  Details of the conversion of the CDK from the CDB version can
+be found in the file cdb2oa/OA_Conversion.txt.
+
+Documentation and tutorials for this kit can be found at 
+http://www.eda.ncsu.edu
+
+Please send all questions and comments to eda_help@ncsu.edu
+

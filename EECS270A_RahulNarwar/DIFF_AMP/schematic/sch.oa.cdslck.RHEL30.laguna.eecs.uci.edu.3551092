@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      rnarwar
+HostName                       laguna.eecs.uci.edu
+ProcessIdentifier              3551092
+ProcessCreationTime_UTC        1761594859
+ProcessCreationTime_Readable   Mon Oct 27 12:54:19 2025 PDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /users/ugrad/rnarwar/EECS270A/EECS270A_RahulNarwar/DIFF_AMP/schematic/sch.oa.cdslck.dirlck
+TimeEditLocked                 Mon Oct 27 12:58:01 2025 PDT
