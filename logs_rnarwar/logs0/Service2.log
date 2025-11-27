@@ -1,0 +1,109 @@
+\# Program start time:     UTC 2025.11.18 20:18:08.383
+\# Local time: PST (UTC-08:00) 2025.11.18 12:18:08.383
+\o Program:		@(#)$CDS: virtuoso version 6.1.8-64b 09/22/2020 19:17 (cpgsrv11) $
+\o Hierarchy:		/ecelib/eceware/cadence/ic618/tools.lnx86/dfII/
+\o Sub version:		sub-version  IC6.1.8-64b.500.14  (64-bit addresses)
+\# Command line:	/ecelib/linware/cadence/ic616/tools.lnx86/dfII/bin/64bit/virtuoso -beanhost laguna.eecs.uci.edu -beanport 11300 -beanbinlog  -mpssession virtuoso1036968 -mpshost laguna.eecs.uci.edu -davinciService DaVinciService_1036968_1763496960 -axlSession fnxSession1 -axlServiceIdFlag 2 -uuid 65b85ecc-71db-4e4d-aa95-a0a735e36b95 -heartbeat /dev/shm/swift-heartbeat.XUxBMxd3MH -log /users/ugrad/rnarwar/EECS270A/logs_rnarwar/logs0/Service2.log -noautostart -nographE -lscs 000175E1894CBE06FF0966E38F1FFC06BC4D70F08F718E06CB2C6FF7CD1BD263D22C79A2891D9F67D0227DAAD245CD34C87766E3A12FFC06BC4D0FFF5B612878D55100001E21 -interactive -offlineExprEval -fenixMode explorer -heartbeatTimeout  -lingerTimeout 300
+\# Host name (type):	laguna.eecs.uci.edu (x86_64)
+\# Operating system:	Linux 4.18.0-553.74.1.el8_10.x86_64 #1 SMP Sun Sep 14 12:57:27 UTC 2025
+\# Linux /etc/issue:	\S
+\# Linux /etc/issue:	Kernel \r on an \m
+\# X display name (WxH):	:700 (1024x868)
+\# Available geometry:			TL(0:0) BR(1023:867)
+\# X server:			The X.Org Foundation
+\# Depth of Visual (Root):	24 (24)
+\# Number of Planes Used:	24
+\# X version:		11.0 (vendor release 12011000)
+\# X resource pool:	base 0x400000, mask 0x1fffff (2097151), shift 0
+\# 			current id 0x0, current max 0x1ffffa (2097146)
+\# Max data seg size:	     unlimited
+\# Max process size:	     unlimited
+\# Initial sbrk value:	        539 MB
+\# Available memory:	     60,235 MB
+\# System memory:	    136,487 MB
+\# Maximum memory size:	    136,203 MB
+\# Max mem available:	     60,490 MB
+\# Initial memory used:	        255 MB
+\#        process size:	      1,492 MB
+\# Thread usage limits (effective/default):	maxthreads 512952/512952 maxload 56.00/56.00
+\# Qt version:		5.9.1
+\# Window Manager:	other
+\# User Name:		rnarwar
+\o Working Directory:	laguna.eecs.uci.edu:/users/ugrad/rnarwar/EECS270A
+\# Process Id:		1045211
+\o 
+\o COPYRIGHT (C) 1992-2020  CADENCE DESIGN SYSTEMS INC.  ALL RIGHTS RESERVED.
+\o           (C) 1992-2020  UNIX SYSTEMS Laboratories INC.,
+\o                          Reproduced with permission.
+\o 
+\o This Cadence Design Systems program and online documentation are
+\o proprietary/confidential information and may be disclosed/used only
+\o as authorized in a license agreement controlling such use and disclosure.
+\o 
+\o           RESTRICTED RIGHTS NOTICE (SHORT FORM)
+\o Use/reproduction/disclosure is subject to restriction
+\o set forth at FAR 1252.227-19 or its equivalent.
+\o Loading geView.cxt 
+\o Loading menuBuilder.cxt 
+\o Loading schView.cxt 
+\o Loading selectSv.cxt 
+\o Loading wireEdit.cxt 
+\o Loading pte2.cxt 
+\o Loading xlUI.cxt 
+\o Loading auCore.cxt 
+\o Loading vhdl.cxt 
+\o Loading seismic.cxt 
+\o Loading ci.cxt 
+\o Loading ams.cxt 
+\o Loading oasis.cxt 
+\# Memory report: using         396 MB, process size 1,584 MB at UTC 2025.11.18 20:18:10.041
+\o Loading analog.cxt 
+\o Loading asimenv.cxt 
+\o Loading dal.cxt 
+\o Loading awv.cxt 
+\o Loading socket.cxt 
+\o Loading par.cxt 
+\o Loading alvs.cxt 
+\o Loading caa.cxt 
+\o Loading amps.cxt 
+\o Loading adexlCore.cxt 
+\o Loading adexl.cxt 
+\o *Info*    Exporting services from client ... 
+\o 
+\o Loading adexlDM.cxt 
+\o Loading cpf.cxt 
+\o Loading cli.cxt 
+\o Loading lp.cxt 
+\o INFO (ELI-00302) Connecting to parent process (session=virtuoso1036968, host=laguna.eecs.uci.edu). Connection mode is LSCS. Total timeout is 180 seconds. Connection timeout is 90 seconds.
+\o INFO (ELI-00303) Step 1: Connecting to parent. Time spent is 0 seconds.
+\o INFO (ELI-00304) The registration of the child 1045211 within 90 seconds is being processed...
+\o INFO (ELI-00305) The result of registration is true. Time spent is 0 seconds.
+\o INFO (ELI-00308) The connection has ended. Result is true. Total time spent is 1 seconds.
+\# Memory report: using         500 MB, process size 1,750 MB at UTC 2025.11.18 20:18:12.117
+\o Loading NCSU CDK 1.5.1 customizations...
+\o loading vars from /users/ugrad/rnarwar/EECS270A/ncsu-cdk-1.6.0/cdssetup/cdsenv for tool adle
+\o loading vars from /users/ugrad/rnarwar/EECS270A/ncsu-cdk-1.6.0/cdssetup/cdsenv for tool asimenv
+\w *WARNING* envSetVal: Can't set the value of variable 'width',
+\w 	in tool[.partition] 'asimenv.plotting' - it has not been registered.
+\w *WARNING* envSetVal: Can't set the value of variable 'height',
+\w 	in tool[.partition] 'asimenv.plotting' - it has not been registered.
+\o loading vars from /users/ugrad/rnarwar/EECS270A/ncsu-cdk-1.6.0/cdssetup/cdsenv for tool ddserv
+\o loading vars from /users/ugrad/rnarwar/EECS270A/ncsu-cdk-1.6.0/cdssetup/cdsenv for tool layout
+\o loading vars from /users/ugrad/rnarwar/EECS270A/ncsu-cdk-1.6.0/cdssetup/cdsenv for tool schematic
+\o loading vars from /users/ugrad/rnarwar/EECS270A/ncsu-cdk-1.6.0/cdssetup/cdsenv for tool ui
+\o Loading NCSU SKILL routines...
+\w *WARNING* (def): redefining function cd from a lambda to be a nlambda
+\w *WARNING* (def): redefining function ls from a lambda to be a nlambda
+\o function pwd redefined
+\o Done loading NCSU_CDK customizations.
+\p > 
+\a _treeSetOpcGUI(t)
+\r t
+\i _axlRunServices()
+\o [2025-11-18 12:18:12.576 -0800] [process] - Netlist Service has successfully started. Waiting for incoming messages ... [Attributes] {"hostname": "laguna.eecs.uci.edu", "processid": 1045211, "logfile": "/users/ugrad/rnarwar/EECS270A/logs_rnarwar/logs0/Service2.log"}
+\# Available memory:         60,109 MB at UTC 2025.11.18 20:18:22.621
+\# Memory report: Maximum memory size now 60,619 MB at UTC 2025.11.18 20:18:22.621
+\# Thread usage report: 57 active threads, active load 1.00 at UTC 2025.11.18 20:18:22.621
+\o Loading vdsil.cxt 
+\# Memory report: on exit            513 MB, process size 1,828 MB at UTC 2025.11.18 20:22:21.296
+\# Memory report: peak usage         513 MB, process size 1,828 MB

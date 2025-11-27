@@ -1,0 +1,45 @@
+\# Program start time:     UTC 2025.11.18 20:17:49.385
+\# Local time: PST (UTC-08:00) 2025.11.18 12:17:49.385
+\o Program:		@(#)$CDS: virtuoso version 6.1.8-64b 09/22/2020 19:17 (cpgsrv11) $
+\o Hierarchy:		/ecelib/eceware/cadence/ic618/tools.lnx86/dfII/
+\o Sub version:		sub-version  IC6.1.8-64b.500.14  (64-bit addresses)
+\# Command line:	/ecelib/linware/cadence/ic616/tools.lnx86/dfII/bin/64bit/virtuoso -noautostart -mpssession virtuoso1036968 -mpshost laguna.eecs.uci.edu -davinciService DaVinciService_1036968_1763496960 -log /users/ugrad/rnarwar/EECS270A/logs_rnarwar/logs0/Job0.log -licenseLockFileName /users/ugrad/rnarwar/EECS270A/.tmp_rnarwar/.laguna.eecs.uci.edu_1036968 -interactiveA -interactiveE -interactiveRTT -nostdin -nographE -axlChildIdFlag 0
+\# Host name (type):	laguna.eecs.uci.edu (x86_64)
+\# Operating system:	Linux 4.18.0-553.74.1.el8_10.x86_64 #1 SMP Sun Sep 14 12:57:27 UTC 2025
+\# Linux /etc/issue:	\S
+\# Linux /etc/issue:	Kernel \r on an \m
+\# X display name (WxH):	:700 (1024x868)
+\# Available geometry:			TL(0:0) BR(1023:867)
+\# X server:			The X.Org Foundation
+\# Depth of Visual (Root):	24 (24)
+\# Number of Planes Used:	24
+\# X version:		11.0 (vendor release 12011000)
+\# X resource pool:	base 0x400000, mask 0x1fffff (2097151), shift 0
+\# 			current id 0x0, current max 0x1ffffa (2097146)
+\# Max data seg size:	     unlimited
+\# Max process size:	     unlimited
+\# Initial sbrk value:	        545 MB
+\# Available memory:	     60,243 MB
+\# System memory:	    136,487 MB
+\# Maximum memory size:	    136,198 MB
+\# Max mem available:	     60,500 MB
+\# Initial memory used:	        257 MB
+\#        process size:	      1,492 MB
+\# Thread usage limits (effective/default):	maxthreads 512952/512952 maxload 56.00/56.00
+\# Qt version:		5.9.1
+\# Window Manager:	other
+\# User Name:		rnarwar
+\o Working Directory:	laguna.eecs.uci.edu:/users/ugrad/rnarwar/EECS270A
+\# Process Id:		1044688
+\o 
+\o COPYRIGHT (C) 1992-2020  CADENCE DESIGN SYSTEMS INC.  ALL RIGHTS RESERVED.
+\o           (C) 1992-2020  UNIX SYSTEMS Laboratories INC.,
+\o                          Reproduced with permission.
+\o 
+\o This Cadence Design Systems program and online documentation are
+\o proprietary/confidential information and may be disclosed/used only
+\o as authorized in a license agreement controlling such use and disclosure.
+\o 
+\o           RESTRICTED RIGHTS NOTICE (SHORT FORM)
+\o Use/reproduction/disclosure is subject to restriction
+\o set forth at FAR 1252.227-19 or its equivalent.

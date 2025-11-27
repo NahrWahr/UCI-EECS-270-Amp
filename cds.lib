@@ -11,5 +11,6 @@ DEFINE      NCSU_TechLib_tsmc02d    $CDK_DIR/lib/NCSU_TechLib_tsmc02d
 DEFINE      NCSU_TechLib_tsmc03     $CDK_DIR/lib/NCSU_TechLib_tsmc03
 DEFINE      NCSU_TechLib_tsmc03d    $CDK_DIR/lib/NCSU_TechLib_tsmc03d
 DEFINE      NCSU_TechLib_tsmc04_4M2P    $CDK_DIR/lib/NCSU_TechLib_tsmc04_4M2P
-DEFINE RahulNarwar /users/ugrad/rnarwar/EECS270A/RahulNarwar
 DEFINE EECS270A_RahulNarwar /users/ugrad/rnarwar/EECS270A/EECS270A_RahulNarwar
+DEFINE analogLib $CDSHOME/etc/cdslib/artist/analogLib
+#Removed by ddDeleteObj: DEFINE expt /users/ugrad/rnarwar/EECS270A/expt
